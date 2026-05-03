@@ -1,6 +1,7 @@
 {
   "version": "0.1.1",
-  "downloadUrl": "https://github.com/samirmedjiti233/ERPSystem-Releases/releases/tag/v0.1.1",
-  "releaseNotes": "Payroll, SOKA-Bau und UI-Verbesserungen.",
+  "downloadUrl": "https://github.com/samirmedjiti233/ERPSystem-Releases/releases/tag/v0.1.2",
+  "releaseNotes": "Validierungen für Rechnungen, Payroll, Artikel, Kunden, Mitarbeiter, Expenses, Zahlungen und Owner Transactions ergänzt. Außerdem Dark Mode, Scroll-Verhalten und Tabellenansichten verbessert."
+",
   "mandatory": false
 }
